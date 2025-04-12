@@ -63,6 +63,9 @@ This R-based project aims to analyze the key factors contributing to obesity by 
 
 ---
 
+## Contributors
+Ushaswini Sunkara
+Lahari Kaja
 ## How to Run
 
 ### 1. Clone this repository:
